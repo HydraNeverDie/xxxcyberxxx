@@ -1,5 +1,3 @@
-
-
 pcall(function()
 	spawn(function()
 		pcall(function()
