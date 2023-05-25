@@ -1,6 +1,6 @@
 local library = {
 	Version = "0.36",
-	WorkspaceName = "Pepsi Lib",
+	WorkspaceName = "Jinwoo Library",
 	flags = {},
 	signals = {},
 	objects = {},
